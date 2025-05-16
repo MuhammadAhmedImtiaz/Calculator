@@ -10,7 +10,7 @@ This is a simple *web-based calculator* made using *HTML and CSS*. It performs b
 🧮 Easy-to-use Buttons  
 🎨 Attractive and Clean Interface  
 📱 Responsive Design (Basic)  
-⚡ Instant Calculation
+
 
 ---
 
